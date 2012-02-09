@@ -2,6 +2,8 @@
 itty.py
 =======
 
+I am awesome.
+
 The itty-bitty Python web framework.
 
 ``itty.py`` is a little experiment, an attempt at a Sinatra_ influenced
